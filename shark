@@ -1,0 +1,2 @@
+local script = game:HttpGet("https://raw.githubusercontent.com/tbhhhhh/-.lua/refs/heads/main/%E6%B8%85%E6%B0%B4%E8%84%9A%E6%9C%AC%E4%B9%8B(1).txt")
+loadstring(script)()
